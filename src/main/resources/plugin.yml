@@ -1,0 +1,18 @@
+name: FreeRank
+version: '${project.version}'
+main: me.hcfalerts.freerank.FreeRank
+authors: [Traduciendo]
+website: dsc.gg/liteclubdevelopment
+description: Simple /FreeRank Plugin
+commands:
+  freerank:
+    description: Claim the free rank.
+    aliases:
+      - claimrank
+      - claimfreerank
+  freerankadmin:
+    description: Manage the free rank.
+    aliases:
+      - adminfreerank
+      - freerankmanage
+      - managefreerank

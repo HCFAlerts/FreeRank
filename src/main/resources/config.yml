@@ -1,0 +1,9 @@
+# FreeRank Config
+COMMAND: "setrank {player} VIP 3d global Claimed in /FreeRank"
+TIMEZONE: "EST" # Time Zone
+DATE: "12/31/24 23:59:59" # Date of disable command. MM/dd/yy - HH:mm:ss
+
+LANG:
+  CLAIMED: "&eEnjoy your new free rank! &c❤"
+  ALREADY_CLAIMED: "&cYou already claimed your free rank."
+  DISABLED: "&cFreeRank is currently disabled."
