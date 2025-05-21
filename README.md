@@ -1,0 +1,2 @@
+# FreeRank
+Simple freerank plugin.
